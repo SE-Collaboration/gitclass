@@ -1,2 +1,2 @@
 # gitclass
-demo class changes made by dakhesh
+demo class changes made by dakshesh
